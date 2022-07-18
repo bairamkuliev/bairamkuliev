@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 🧠I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px" width="10px">, I'm Bayram</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px" width="30px">, I'm Bayram</h1>
 <h3 align="center">I'm a passionate Data Scientist.</h3>
 
 
@@ -24,15 +24,13 @@ Here are some ideas to get you started:
 
 <!-- 🔭 I’m currently working on **[name](https://)**-->
 
-- 🌱 I’m currently working on the subjects of **Data Science and Data Analytics.**
-
-- 🧠 I’m looking to collaborate on **AI and ML Projects**
+- 🌱 I’m currently working as a **Software Developer.**
 
 - 💻 All of my projects are available at **[My Portfolio](https://bayram98.pythonanywhere.com/)**
 
 - 📫 How to reach me **kuliev.bairam@gmail.com**
 
-- ⚡ I'm really keen on **Machine Learning.**
+- ⚡ I'm really keen on **Data Science and Data Analytics Subjects.**
 
 ## 🚀 Languages and Tools:
 
